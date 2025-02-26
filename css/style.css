@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background-color: black;
+  }
+  
+p {
+    color: red;
+  }
+img{
+    height:auto;
+    width: 500px;
+    border: white solid;
+
+}
